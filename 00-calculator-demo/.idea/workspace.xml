@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="036458a3-34d6-46a1-90d2-ed3d0937f339" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/appsdeveloperblog/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/DemoRepeatedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/MethodOrderedByIndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/MethodOrderedByMethodName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/MethodOrderedRandomlyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/order/OrderServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/order/ProductServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/order/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/integerDivision.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-tdd-in-java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-tdd-in-java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-tdd-in-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-tdd-in-java/src/main/java/com/appsdeveloperblog/estore/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-tdd-in-java/src/main/java/com/appsdeveloperblog/estore/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-tdd-in-java/src/main/java/com/appsdeveloperblog/estore/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-tdd-in-java/src/test/java/com/appsdeveloperblog/estore/service/UserServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;javaHelper&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/javaHelper/Test-Java-applications-with-JUnit-5-Mockito-Testcontainers.git&quot;,
+    &quot;accountId&quot;: &quot;85adf5f5-f500-490e-9a8c-ffae42cdb797&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2u3B1QfD5tarm50hxMGvy0hCCTL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.CalculatorTest.integerSubtraction.executor": "Run",
+    "JUnit.CalculatorTest.integerSubtraction2.executor": "Run",
+    "JUnit.CalculatorTest.integerSubtractionUsingCSVFile.executor": "Run",
+    "JUnit.CalculatorTest.integerSubtractionUsingCSVSource.executor": "Run",
+    "JUnit.CalculatorTest.testIntegerDivision_WhenFourDividedIsDividedByZero_ShouldThrowArithmeticException.executor": "Run",
+    "JUnit.CalculatorTest.valueSourceDemonstration (1).executor": "Run",
+    "JUnit.CalculatorTest.valueSourceDemonstration.executor": "Run",
+    "JUnit.DemoRepeatedTest.testIntegerDivision_WhenDividendIsDividedByZero_ShouldThrowArithmeticException.executor": "Run",
+    "JUnit.MethodOrderedByIndexTest.executor": "Run",
+    "JUnit.MethodOrderedByMethodName.executor": "Run",
+    "JUnit.MethodOrderedRandomlyTest.executor": "Run",
+    "JUnit.ParameterizedTests.executor": "Run",
+    "JUnit.ParameterizedTests.integerSubtraction.executor": "Run",
+    "JUnit.com.appsdeveloperblog.order in 00-calculator-demo.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/prats/Documents/Prateek/Test-Java-applications-with-JUnit-5-Mockito-Testcontainers/00-calculator-demo/src/test/java/org/example",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/org/example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/appsdeveloperblog/order" />
+      <recent name="$PROJECT_DIR$/src/test/java/org/example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MethodOrderedByIndexTest">
+    <configuration name="CalculatorTest.valueSourceDemonstration (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="00-calculator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.CalculatorTest" />
+      <option name="METHOD_NAME" value="valueSourceDemonstration(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOrderedByIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="00-calculator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.MethodOrderedByIndexTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOrderedByMethodName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="00-calculator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.MethodOrderedByMethodName" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOrderedRandomlyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="00-calculator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.MethodOrderedRandomlyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.appsdeveloperblog.order in 00-calculator-demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="00-calculator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsdeveloperblog.order" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MethodOrderedByIndexTest" />
+        <item itemvalue="JUnit.CalculatorTest.valueSourceDemonstration (1)" />
+        <item itemvalue="JUnit.com.appsdeveloperblog.order in 00-calculator-demo" />
+        <item itemvalue="JUnit.MethodOrderedByMethodName" />
+        <item itemvalue="JUnit.MethodOrderedRandomlyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="036458a3-34d6-46a1-90d2-ed3d0937f339" name="Changes" comment="" />
+      <created>1741467161509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741467161509</updated>
+    </task>
+    <servers />
+  </component>
+</project>
